@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CallGraph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"representedClass",
+		"methods",
+		"methodLinks"
+	],
+	"name" : "ClassGraph",
+	"type" : "normal"
+}
